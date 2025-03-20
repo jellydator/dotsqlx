@@ -1,14 +1,14 @@
 # dotsqlx
 
-[![GoDoc](https://godoc.org/github.com/swithek/dotsqlx?status.png)](https://godoc.org/github.com/swithek/dotsqlx)
-[![Build status](https://travis-ci.org/swithek/dotsqlx.svg?branch=master)](https://travis-ci.org/swithek/dotsqlx)
-[![Go Report Card](https://goreportcard.com/badge/github.com/swithek/dotsqlx)](https://goreportcard.com/report/github.com/swithek/dotsqlx)
+[![GoDoc](https://godoc.org/github.com/jellydator/dotsqlx?status.png)](https://godoc.org/github.com/jellydator/dotsqlx)
+[![Build status](https://travis-ci.org/jellydator/dotsqlx.svg?branch=master)](https://travis-ci.org/jellydator/dotsqlx)
+[![Go Report Card](https://goreportcard.com/badge/github.com/jellydator/dotsqlx)](https://goreportcard.com/report/github.com/jellydator/dotsqlx)
 
 [Dotsql](https://github.com/qustavo/dotsql) wrapper allowing seemless work with [jmoiron/sqlx](https://github.com/jmoiron/sqlx)
 
 ## Installation
 ```
-go get github.com/swithek/dotsqlx
+go get github.com/jellydator/dotsqlx
 ```
 
 ## Usage

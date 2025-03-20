@@ -1,4 +1,4 @@
-module github.com/swithek/dotsqlx
+module github.com/jellydator/dotsqlx
 
 go 1.12
 
